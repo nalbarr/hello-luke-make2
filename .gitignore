@@ -131,3 +131,4 @@ dmypy.json
 # NAA
 # - do your local ignores
 foo.txt
+bar.txt
